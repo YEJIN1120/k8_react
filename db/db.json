@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is a comment1.",
+      "author": 1
+    },
+    {
+      "title": "This is a comment2.",
+      "author": "2",
+      "id": "2"
+    },
+    {
+      "title": "Hi",
+      "author": "김예진",
+      "id": "fd03"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "This is a comment1.",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "This is a comment2.",
+      "postId": 1
+    }
+  ]
+}

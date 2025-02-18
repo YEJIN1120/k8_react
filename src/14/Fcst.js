@@ -45,12 +45,12 @@ export default function Fcst() {
       <h1 className = "w-full text-center items-center text-3xl my-10 font-bold">
       일기예보 선택
       </h1>
-      <div className = "w-10/12 grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className = "w-10/12 grid grid-cols-1 md:grid-cols-2 gap-4 place-items-center">
         <input type = "date"
                ref = {txtDt}
-               className = "form-input"
+               className = "form-input w-full"
                id = 'txt1'/>
-        <select className = "form-select"
+        <select className = "form-select w-full"
                 ref = {txtArea}>
           <option value = '' >-- 지역을 선택하세요.</option>
           {sido}
@@ -64,7 +64,6 @@ export default function Fcst() {
                     handleClick = {() => handleOk('단기예보')}
                     size = 'w-1/2'/>
       </div>
-
     </div>
   )
 }
