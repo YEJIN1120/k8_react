@@ -28,19 +28,6 @@ React의 컴포넌트, 상태관리, 이벤트 처리, Recoil, TailwindCSS 등�
 - Recoil을 이용한 전역 상태 관리 실습
 - TailwindCSS를 이용한 반응형 스타일 적용 및 컴포넌트 스타일링
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # Getting Started with Create React App
