@@ -1,8 +1,32 @@
+# 📝 React 실습 - k8_react
 
+## 📌 소개
 
+이 저장소는 Create React App 기반으로 시작된 React 학습용 실습 저장소입니다.
+React의 컴포넌트, 상태관리, 이벤트 처리, Recoil, TailwindCSS 등을 실습하며 기록한 내용을 정리한 공간입니다.
 
+학습하며 작성한 주요 코드와 개념들을 포함하고 있으며, 반복 실습을 통해 React의 기초부터 확장까지 경험하고자 구성하였습니다.
 
+---
 
+## 🛠 사용 기술
+
+- **React**
+- **Recoil** – 전역 상태 관리
+- **Tailwind CSS** – 유틸리티 기반 스타일링
+- JavaScript (ES6+)
+- Create React App
+
+---
+
+## ✨ 학습 포인트
+
+- React 컴포넌트 구조 및 JSX 작성법
+- `useState`, `useEffect`, `useRef` 등 주요 Hook 사용법
+- 부모 → 자식 데이터 전달 (props) 및 props 구조 분해
+- 이벤트 처리 (`onClick`, `onChange` 등)
+- Recoil을 이용한 전역 상태 관리 실습
+- TailwindCSS를 이용한 반응형 스타일 적용 및 컴포넌트 스타일링
 
 
 
